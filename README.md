@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bryt4th
-- 👀 I’m interested in Technology related information
+- I’m interested in Technology
 - 🌱 I’m currently learning information systems and technology at Makerere University
 - 💞️ I’m looking to collaborate on cyber security
-- 📫 How to reach me.Email at maserekabright2003@gmail.com
+- 📫 How to reach me.Email at maserekabright3@gmail.com
 
 <!---
 Bryt4th/Bryt4th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
